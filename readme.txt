@@ -1,7 +1,5 @@
 Name: Omar Saleh
 Email: omarhamidoo@gmail.com
-Cell: (310) 489-5419
-
 
 My program cell.cpp is a C++ program that prompts the user for a phone number and uses that 
 number to test the cell function
